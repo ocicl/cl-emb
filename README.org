@@ -1,0 +1,9 @@
+* cl-emb
+
+The repository of CL-Emb used for QuickLisp releases
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/38a938c2/cl-emb.git |
+| commit  | fd86521                                    |
+| systems | cl-emb                                     |
+|---------+--------------------------------------------|
