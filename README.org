@@ -7,3 +7,4 @@ The repository of CL-Emb used for QuickLisp releases
 | commit  | fd86521                                    |
 | systems | cl-emb                                     |
 |---------+--------------------------------------------|
+ 
